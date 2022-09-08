@@ -1,0 +1,2 @@
+test.c:7:6:GPIO_VidSet_Pin_Mode	16	static
+test.c:129:6:GPIO_VidSet_Port_Mode	16	static

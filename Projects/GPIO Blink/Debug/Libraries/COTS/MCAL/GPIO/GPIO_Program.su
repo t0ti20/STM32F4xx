@@ -1,0 +1,4 @@
+GPIO_Program.c:7:6:GPIO_VidSet_Pin	16	static
+GPIO_Program.c:205:6:GPIO_VidPin_Mode_Output	24	static
+GPIO_Program.c:1684:6:GPIO_VidPin_Mode	16	static
+GPIO_Program.c:2206:6:GPIO_VidPort_Mode	16	static
